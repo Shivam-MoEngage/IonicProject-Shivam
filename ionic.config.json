@@ -1,0 +1,7 @@
+{
+  "name": "moengage-sdk-sample",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
